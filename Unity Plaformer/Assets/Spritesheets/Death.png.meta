@@ -1,0 +1,2464 @@
+fileFormatVersion: 2
+guid: cca16020c12053b4d8ec10a91ba5bb0c
+timeCreated: 1427463615
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Death_0
+    21300002: Death_1
+    21300004: Death_2
+    21300006: Death_3
+    21300008: Death_4
+    21300010: Death_5
+    21300012: Death_6
+    21300014: Death_7
+    21300016: Death_8
+    21300018: Death_9
+    21300020: Death_10
+    21300022: Death_11
+    21300024: Death_12
+    21300026: Death_13
+    21300028: Death_14
+    21300030: Death_15
+    21300032: Death_16
+    21300034: Death_17
+    21300036: Death_18
+    21300038: Death_19
+    21300040: Death_20
+    21300042: Death_21
+    21300044: Death_22
+    21300046: Death_23
+    21300048: Death_24
+    21300050: Death_25
+    21300052: Death_26
+    21300054: Death_27
+    21300056: Death_28
+    21300058: Death_29
+    21300060: Death_30
+    21300062: Death_31
+    21300064: Death_32
+    21300066: Death_33
+    21300068: Death_34
+    21300070: Death_35
+    21300072: Death_36
+    21300074: Death_37
+    21300076: Death_38
+    21300078: Death_39
+    21300080: Death_40
+    21300082: Death_41
+    21300084: Death_42
+    21300086: Death_43
+    21300088: Death_44
+    21300090: Death_45
+    21300092: Death_46
+    21300094: Death_47
+    21300096: Death_48
+    21300098: Death_49
+    21300100: Death_50
+    21300102: Death_51
+    21300104: Death_52
+    21300106: Death_53
+    21300108: Death_54
+    21300110: Death_55
+    21300112: Death_56
+    21300114: Death_57
+    21300116: Death_58
+    21300118: Death_59
+    21300120: Death_60
+    21300122: Death_61
+    21300124: Death_62
+    21300126: Death_63
+    21300128: Death_64
+    21300130: Death_65
+    21300132: Death_66
+    21300134: Death_67
+    21300136: Death_68
+    21300138: Death_69
+    21300140: Death_70
+    21300142: Death_71
+    21300144: Death_72
+    21300146: Death_73
+    21300148: Death_74
+    21300150: Death_75
+    21300152: Death_76
+    21300154: Death_77
+    21300156: Death_78
+    21300158: Death_79
+    21300160: Death_80
+    21300162: Death_81
+    21300164: Death_82
+    21300166: Death_83
+    21300168: Death_84
+    21300170: Death_85
+    21300172: Death_86
+    21300174: Death_87
+    21300176: Death_88
+    21300178: Death_89
+    21300180: Death_90
+    21300182: Death_91
+    21300184: Death_92
+    21300186: Death_93
+    21300188: Death_94
+    21300190: Death_95
+    21300192: Death_96
+    21300194: Death_97
+    21300196: Death_98
+    21300198: Death_99
+    21300200: Death_100
+    21300202: Death_101
+    21300204: Death_102
+    21300206: Death_103
+    21300208: Death_104
+    21300210: Death_105
+    21300212: Death_106
+    21300214: Death_107
+    21300216: Death_108
+    21300218: Death_109
+    21300220: Death_110
+    21300222: Death_111
+    21300224: Death_112
+    21300226: Death_113
+    21300228: Death_114
+    21300230: Death_115
+    21300232: Death_116
+    21300234: Death_117
+    21300236: Death_118
+    21300238: Death_119
+    21300240: Death_120
+    21300242: Death_121
+    21300244: Death_122
+    21300246: Death_123
+    21300248: Death_124
+    21300250: Death_125
+    21300252: Death_126
+    21300254: Death_127
+    21300256: Death_128
+    21300258: Death_129
+    21300260: Death_130
+    21300262: Death_131
+    21300264: Death_132
+    21300266: Death_133
+    21300268: Death_134
+    21300270: Death_135
+    21300272: Death_136
+    21300274: Death_137
+    21300276: Death_138
+    21300278: Death_139
+    21300280: Death_140
+    21300282: Death_141
+    21300284: Death_142
+    21300286: Death_143
+    21300288: Death_144
+    21300290: Death_145
+    21300292: Death_146
+    21300294: Death_147
+    21300296: Death_148
+    21300298: Death_149
+    21300300: Death_150
+    21300302: Death_151
+    21300304: Death_152
+    21300306: Death_153
+    21300308: Death_154
+    21300310: Death_155
+    21300312: Death_156
+    21300314: Death_157
+    21300316: Death_158
+    21300318: Death_159
+    21300320: Death_160
+    21300322: Death_161
+    21300324: Death_162
+    21300326: Death_163
+    21300328: Death_164
+    21300330: Death_165
+    21300332: Death_166
+    21300334: Death_167
+    21300336: Death_168
+    21300338: Death_169
+    21300340: Death_170
+    21300342: Death_171
+    21300344: Death_172
+    21300346: Death_173
+    21300348: Death_174
+    21300350: Death_175
+    21300352: Death_176
+    21300354: Death_177
+    21300356: Death_178
+    21300358: Death_179
+    21300360: Death_180
+    21300362: Death_181
+    21300364: Death_182
+    21300366: Death_183
+    21300368: Death_184
+    21300370: Death_185
+    21300372: Death_186
+    21300374: Death_187
+    21300376: Death_188
+    21300378: Death_189
+    21300380: Death_190
+    21300382: Death_191
+    21300384: Death_192
+    21300386: Death_193
+    21300388: Death_194
+    21300390: Death_195
+    21300392: Death_196
+    21300394: Death_197
+    21300396: Death_198
+    21300398: Death_199
+    21300400: Death_200
+    21300402: Death_201
+    21300404: Death_202
+    21300406: Death_203
+    21300408: Death_204
+    21300410: Death_205
+    21300412: Death_206
+    21300414: Death_207
+    21300416: Death_208
+    21300418: Death_209
+    21300420: Death_210
+    21300422: Death_211
+    21300424: Death_212
+    21300426: Death_213
+    21300428: Death_214
+    21300430: Death_215
+    21300432: Death_216
+    21300434: Death_217
+    21300436: Death_218
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Death_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 975
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 975
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 975
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 975
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 975
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 964
+        width: 112
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 921
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 921
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 921
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 921
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 921
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 921
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 902
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 902
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 902
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 902
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 902
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 902
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 902
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 837
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 837
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 835
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 837
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 837
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 837
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 890
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 809
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 809
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 809
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 809
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 783
+        width: 194
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 792
+        width: 67
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 797
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 797
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 797
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 797
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 797
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 797
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 791
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 728
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 728
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 728
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 728
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 728
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 719
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 720
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_55
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 720
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_59
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 690
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 687
+        width: 67
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_69
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 692
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 692
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 686
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 625
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 625
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_75
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 625
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 625
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 625
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 625
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_79
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 632
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 625
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_81
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 635
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_82
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 625
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 559
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 568
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 569
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 559
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 559
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_88
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 559
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 541
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 543
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_91
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 541
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_92
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 564
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_93
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_94
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 525
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_96
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_99
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_100
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_102
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_104
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_106
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 525
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 525
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 525
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_109
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_114
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_115
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_117
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_118
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_120
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_121
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 525
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_123
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_124
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_126
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_128
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_129
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 525
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_130
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_131
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_132
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_134
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_135
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 525
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_136
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 525
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_138
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 461
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_139
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 461
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_140
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 461
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_141
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 461
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_142
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 461
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_143
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 461
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_144
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 461
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_145
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 461
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_146
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 461
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_147
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 391
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_148
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 391
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_149
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 391
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_150
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 375
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_151
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 374
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_152
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 389
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_153
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 389
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_154
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 316
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_155
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 316
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_156
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 313
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 313
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_158
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 313
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_159
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 313
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_160
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 320
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_161
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 313
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_162
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 323
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_163
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 313
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 247
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_165
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 256
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_166
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_167
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 247
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_168
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 247
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_169
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 247
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_170
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 229
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_171
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 231
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_172
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 229
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_173
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_174
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 174
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_176
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 165
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_177
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 162
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_178
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 170
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_179
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 173
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_180
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 164
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_181
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 156
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_182
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 139
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_183
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 173
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_184
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 141
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_185
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 182
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_186
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 150
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_187
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 28
+        width: 48
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_188
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 24
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_189
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 131
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_191
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 62
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_192
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_193
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_194
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 38
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_195
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 34
+        width: 15
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_196
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 26
+        width: 15
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_197
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 56
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_198
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_199
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 92
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 31
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_201
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 52
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_202
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 72
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_203
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 47
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_204
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 72
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_205
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 63
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_206
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_207
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 54
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_208
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 15
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_209
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_210
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 18
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_211
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_212
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_213
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_214
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 22
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_215
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 20
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_216
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_217
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_218
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
